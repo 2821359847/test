@@ -1,4 +1,8 @@
 test
+<<<<<<< HEAD
 test
 123qwe
 aaaaa
+=======
+test
+>>>>>>> parent of c5eb394... Update test.txt
